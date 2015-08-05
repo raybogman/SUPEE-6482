@@ -1,0 +1,2 @@
+# SUPEE-6482
+SUPEE-6482 - update
